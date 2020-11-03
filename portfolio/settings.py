@@ -25,7 +25,7 @@ SECRET_KEY = 'x@c^9aw4@oa&12_)b^18+189=gkp#++tj77i#&y(^y8t_*gs9t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["azriel-django-portfolio.herokuapp.com"]
 
 
 # Application definition
