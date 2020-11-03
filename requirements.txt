@@ -1,7 +1,6 @@
 asgiref==3.2.10
 django==3.0.3
 gunicorn==20.0.4
-jpeg==9b
 krb5==1.17.1
 libpng==1.6.37
 libpq==12.2
