@@ -1,6 +1,5 @@
 asgiref==3.2.10
 django==3.0.3
-freetype==2.10.4
 gunicorn==20.0.4
 jpeg==9b
 krb5==1.17.1
