@@ -1,6 +1,4 @@
 asgiref==3.2.10
-ca-certificates==2020.10.14
-certifi==2020.6.20
 django==3.0.3
 freetype==2.10.4
 gunicorn==20.0.4
