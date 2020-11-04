@@ -3,14 +3,6 @@ from .models import Job
 import os
 from os import listdir
 from os.path import isfile, join
-from django import template
-register = template.Library()
-@register.filter
-def list_item(lst, i):
-    try:
-        return lst[i]
-    except:
-        return None
 
 # Create your views here.
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
